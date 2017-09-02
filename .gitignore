@@ -1,6 +1,5 @@
 .idea/*
 keys/*
-database/*
 /goat/geckodriver.log
 *.pyc
 /goat/.idea/workspace.xml
