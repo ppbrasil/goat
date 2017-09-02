@@ -1,4 +1,6 @@
-goat/db.sqlite3
-goat/geckodriver.log
+.idea/*
+keys/*
+database/*
+/goat/geckodriver.log
 *.pyc
-goat/.idea/workspace.xml
+/goat/.idea/workspace.xml
