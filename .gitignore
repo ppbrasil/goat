@@ -3,3 +3,4 @@ keys/*
 /goat/geckodriver.log
 *.pyc
 /goat/.idea/workspace.xml
+database/*
